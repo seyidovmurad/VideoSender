@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gT4e8tyAE2bpvwm/5uVDR/zl734IcfTdo+rZF3wbWLtBg36WCkysNkap3SfACwLz9U/WN9O9m4WnUzSzXb7Ebw==",
+  "success": true,
+  "projectFilePath": "D:\\step it\\Homework_Network\\3-06.03.2022\\VideoSender\\MyClient\\MyClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murad\\.nuget\\packages\\fody\\6.5.1\\fody.6.5.1.nupkg.sha512",
+    "C:\\Users\\Murad\\.nuget\\packages\\propertychanged.fody\\3.4.0\\propertychanged.fody.3.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

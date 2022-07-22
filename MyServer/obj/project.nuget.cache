@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4w8w9zhpmaovPxAdkfNXAQnh9FPyQiW7bNFxHM+Q0R6snxZJ9kVT6Kc6ATv3lbfAVdUnnfo2zFI8MEsXc+XqbQ==",
+  "success": true,
+  "projectFilePath": "D:\\step it\\Homework_Network\\3-06.03.2022\\VideoSender\\MyServer\\MyServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murad\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Murad\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

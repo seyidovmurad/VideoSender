@@ -1,0 +1,44 @@
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\bin\Debug\net5.0\MyServer.exe
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\bin\Debug\net5.0\MyServer.deps.json
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\bin\Debug\net5.0\MyServer.runtimeconfig.json
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\bin\Debug\net5.0\MyServer.runtimeconfig.dev.json
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\bin\Debug\net5.0\MyServer.dll
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\bin\Debug\net5.0\ref\MyServer.dll
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\bin\Debug\net5.0\MyServer.pdb
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\obj\Debug\net5.0\MyServer.csproj.AssemblyReference.cache
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\obj\Debug\net5.0\MyServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\obj\Debug\net5.0\MyServer.AssemblyInfoInputs.cache
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\obj\Debug\net5.0\MyServer.AssemblyInfo.cs
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\obj\Debug\net5.0\MyServer.csproj.CoreCompileInputs.cache
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\obj\Debug\net5.0\MyServer.csproj.CopyComplete
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\obj\Debug\net5.0\MyServer.dll
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\obj\Debug\net5.0\ref\MyServer.dll
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\obj\Debug\net5.0\MyServer.pdb
+C:\Users\seyi_od63\source\repos\VideoSender\MyServer\obj\Debug\net5.0\MyServer.genruntimeconfig.cache
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\bin\Debug\net5.0\MyServer.exe
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\bin\Debug\net5.0\MyServer.deps.json
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\bin\Debug\net5.0\MyServer.runtimeconfig.json
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\bin\Debug\net5.0\MyServer.runtimeconfig.dev.json
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\bin\Debug\net5.0\MyServer.dll
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\bin\Debug\net5.0\ref\MyServer.dll
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\bin\Debug\net5.0\MyServer.pdb
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\obj\Debug\net5.0\MyServer.csproj.AssemblyReference.cache
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\obj\Debug\net5.0\MyServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\obj\Debug\net5.0\MyServer.AssemblyInfoInputs.cache
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\obj\Debug\net5.0\MyServer.AssemblyInfo.cs
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\obj\Debug\net5.0\MyServer.csproj.CoreCompileInputs.cache
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\obj\Debug\net5.0\MyServer.csproj.CopyComplete
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\obj\Debug\net5.0\MyServer.dll
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\obj\Debug\net5.0\ref\MyServer.dll
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\obj\Debug\net5.0\MyServer.pdb
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyServer\obj\Debug\net5.0\MyServer.genruntimeconfig.cache

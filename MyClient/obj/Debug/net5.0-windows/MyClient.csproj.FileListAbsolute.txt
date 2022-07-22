@@ -1,0 +1,57 @@
+C:\Users\seyi_od63\source\repos\VideoSender\MyClient\bin\Debug\net5.0-windows\MyClient.exe
+C:\Users\seyi_od63\source\repos\VideoSender\MyClient\bin\Debug\net5.0-windows\MyClient.deps.json
+C:\Users\seyi_od63\source\repos\VideoSender\MyClient\bin\Debug\net5.0-windows\MyClient.runtimeconfig.json
+C:\Users\seyi_od63\source\repos\VideoSender\MyClient\bin\Debug\net5.0-windows\MyClient.runtimeconfig.dev.json
+C:\Users\seyi_od63\source\repos\VideoSender\MyClient\bin\Debug\net5.0-windows\MyClient.dll
+C:\Users\seyi_od63\source\repos\VideoSender\MyClient\bin\Debug\net5.0-windows\ref\MyClient.dll
+C:\Users\seyi_od63\source\repos\VideoSender\MyClient\bin\Debug\net5.0-windows\MyClient.pdb
+C:\Users\seyi_od63\source\repos\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.csproj.AssemblyReference.cache
+C:\Users\seyi_od63\source\repos\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.Form1.resources
+C:\Users\seyi_od63\source\repos\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.csproj.GenerateResource.cache
+C:\Users\seyi_od63\source\repos\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seyi_od63\source\repos\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.AssemblyInfoInputs.cache
+C:\Users\seyi_od63\source\repos\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.AssemblyInfo.cs
+C:\Users\seyi_od63\source\repos\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.csproj.CoreCompileInputs.cache
+C:\Users\seyi_od63\source\repos\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.dll
+C:\Users\seyi_od63\source\repos\VideoSender\MyClient\obj\Debug\net5.0-windows\ref\MyClient.dll
+C:\Users\seyi_od63\source\repos\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.pdb
+C:\Users\seyi_od63\source\repos\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.genruntimeconfig.cache
+C:\Users\seyi_od63\source\repos\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.csproj.Fody.CopyLocal.cache
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\bin\Debug\net5.0-windows\MyClient.exe
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\bin\Debug\net5.0-windows\MyClient.deps.json
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\bin\Debug\net5.0-windows\MyClient.runtimeconfig.json
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\bin\Debug\net5.0-windows\MyClient.runtimeconfig.dev.json
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\bin\Debug\net5.0-windows\MyClient.dll
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\bin\Debug\net5.0-windows\ref\MyClient.dll
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\bin\Debug\net5.0-windows\MyClient.pdb
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.csproj.AssemblyReference.cache
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.Form1.resources
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.csproj.GenerateResource.cache
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.AssemblyInfoInputs.cache
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.AssemblyInfo.cs
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.csproj.CoreCompileInputs.cache
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.csproj.Fody.CopyLocal.cache
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.dll
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\ref\MyClient.dll
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.pdb
+C:\Users\01mur\Desktop\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.genruntimeconfig.cache
+D:\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.dll
+D:\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\ref\MyClient.dll
+D:\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.pdb
+D:\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\bin\Debug\net5.0-windows\MyClient.exe
+D:\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\bin\Debug\net5.0-windows\MyClient.deps.json
+D:\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\bin\Debug\net5.0-windows\MyClient.runtimeconfig.json
+D:\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\bin\Debug\net5.0-windows\MyClient.runtimeconfig.dev.json
+D:\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\bin\Debug\net5.0-windows\MyClient.dll
+D:\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\bin\Debug\net5.0-windows\ref\MyClient.dll
+D:\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\bin\Debug\net5.0-windows\MyClient.pdb
+D:\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.csproj.AssemblyReference.cache
+D:\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.Form1.resources
+D:\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.csproj.GenerateResource.cache
+D:\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.AssemblyInfoInputs.cache
+D:\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.AssemblyInfo.cs
+D:\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.csproj.CoreCompileInputs.cache
+D:\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.csproj.Fody.CopyLocal.cache
+D:\step it\Homework_Network\3-06.03.2022\VideoSender\MyClient\obj\Debug\net5.0-windows\MyClient.genruntimeconfig.cache
